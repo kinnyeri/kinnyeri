@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&theme=apprentice)
+<!-- ![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&theme=apprentice) -->
 
-<!-- ![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&bg_color=154228&title_color=ffffff&text_color=ffffff&icon_color=ffffff) -->
+![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&bg_color=FFAF26&title_color=7B3420&text_color=B05C33&icon_color=B05C33&hide_border=true&custom_title=Welcome%20to%20YERI%20hub)
