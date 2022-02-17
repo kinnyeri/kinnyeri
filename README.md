@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&theme=apprentice) -->
-<div align="center">
+<div align="center" style="background-color:black">
 <h2 style="color:#6868ab"> 🐯 김예리 Kim Yeri ✨ </h2>
 
 <a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>
