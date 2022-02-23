@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!-- ![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&theme=apprentice) -->
 <div align="center" style="background-color:black">
+<img src="https://postfiles.pstatic.net/MjAyMTEyMDNfNjkg/MDAxNjM4NTQzMjQxNjQ4.q-uCHQK8wZPzV6jOPn8MbjDStZiqwNNfTz9NjA-ln0og.Ca1Wz7NQjbrsvaCQ96VNWvMzSHUJL1qjLwjRdarAajMg.JPEG.98sena/output_3510372380.jpg?type=f238"/>
+  
 <h2 style="color:#6868ab"> 🐯 김예리 Kim Yeri ✨ </h2>
 
 <a href="https://www.notion.so/yerik/2179b3a870cf4aa6876aa691a09cadd0" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>
