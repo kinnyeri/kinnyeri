@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- ![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&theme=apprentice) -->
 <div align="center" style="background-color:black">
-<img src="https://postfiles.pstatic.net/MjAyMTEyMDNfNjkg/MDAxNjM4NTQzMjQxNjQ4.q-uCHQK8wZPzV6jOPn8MbjDStZiqwNNfTz9NjA-ln0og.Ca1Wz7NQjbrsvaCQ96VNWvMzSHUJL1qjLwjRdarAajMg.JPEG.98sena/output_3510372380.jpg?type=f238"/>
+<img src="https://postfiles.pstatic.net/MjAyMjAxMjdfMjk2/MDAxNjQzMjIwMTMwNTk0.plCYNeCJVpbkwEVQE3QZW3MYS5u0rCRNUwsmqcYvBBUg.-KqaI19IP8-guMKMFpdR4_IqnWHA_s6HG4By9so-jC4g.JPEG.98sena/IMG_3099.JPG?type=f238"/>
   
 <h2 style="color:#6868ab"> 🐯 김예리 Kim Yeri ✨ </h2>
 
