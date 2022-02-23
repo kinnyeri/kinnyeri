@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <div align="center" style="background-color:black">
 <h2 style="color:#6868ab"> 🐯 김예리 Kim Yeri ✨ </h2>
 
-<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>
-<a href="[1. 연결하고싶은 사이트 url]" target="_blank"><img src="https://img.shields.io/badge/🕶 TECH BLOG-6868ab?style=flat-square&logoColor=white"/></a>
+<a href="https://www.notion.so/yerik/2179b3a870cf4aa6876aa691a09cadd0" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>
+<a href="https://velog.io/@kinnyeri" target="_blank"><img src="https://img.shields.io/badge/🕶 TECH BLOG-6868ab?style=flat-square&logoColor=white"/></a>
 <a href="https://blog.naver.com/98sena" target="_blank"><img src="https://img.shields.io/badge/😎 DAILY BLOG-6868ab?style=flat-square&logoColor=white"/></a>
 <a href="https://instagram.com/kinnyeri?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-6868ab?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
@@ -34,13 +34,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Kotlin-355E3B?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-355E3B?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-355E3B?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-355E3B?style=flat-square&logo=Flutter&logoColor=white"/>
 
 <h4 style="color:#355E3B"> Tools </h4>
-
+<img src="https://img.shields.io/badge/Visual Studio Code-355E3B?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-355E3B?style=flat-square&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-355E3B?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-355E3B?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-355E3B?style=flat-square&logo=GitHub&logoColor=white"/>
+  
 <h2> 💎 Status 💭 </h2>
-
-![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&bg_color=DEG,355E3B,6868ab&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&custom_title=Welcome%20to%20YERI%20hub)
-
-[![백준 티어](http://mazassumnida.wtf/api/generate_badge?boj=98sena)](https://solved.ac/98sena)
-
+<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&bg_color=DEG,355E3B,6868ab&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&custom_title=Welcome%20to%20YERI%20hub"/>
+<a href="https://www.acmicpc.net/" target="_blank"><img style="height:150px; margin-left:10px" src="http://mazassumnida.wtf/api/generate_badge?boj=98sena"/></a>
 </div>
