@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-355E3B?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-355E3B?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-355E3B?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-355E3B?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-355E3B?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-355E3B?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-355E3B?style=flat-square&logo=Flutter&logoColor=white"/>
