@@ -1,21 +1,3 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**kinnyeri/kinnyeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- ![kinnyeri's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&theme=apprentice) -->
 <!-- <div align="center" style="background-color:black"> -->
 <img src="https://postfiles.pstatic.net/MjAyMTEyMDNfNjkg/MDAxNjM4NTQzMjQxNjQ4.q-uCHQK8wZPzV6jOPn8MbjDStZiqwNNfTz9NjA-ln0og.Ca1Wz7NQjbrsvaCQ96VNWvMzSHUJL1qjLwjRdarAajMg.JPEG.98sena/output_3510372380.jpg?type=w773" style="width:300px"/>
   
@@ -45,8 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-355E3B?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
-<!-- <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="46" height="46" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="46" height="46" /></div>
-   -->
 <h4 style="color:#355E3B"> Tools </h4>
 <div style="display:flex">
 <img src="https://img.shields.io/badge/Git-355E3B?style=flat-square&logo=Git&logoColor=white"/>
