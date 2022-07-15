@@ -1,5 +1,5 @@
 <!-- <div align="center" style="background-color:black"> -->
-<img src="https://postfiles.pstatic.net/MjAyMTEyMDNfNjkg/MDAxNjM4NTQzMjQxNjQ4.q-uCHQK8wZPzV6jOPn8MbjDStZiqwNNfTz9NjA-ln0og.Ca1Wz7NQjbrsvaCQ96VNWvMzSHUJL1qjLwjRdarAajMg.JPEG.98sena/output_3510372380.jpg?type=w773" style="width:300px"/>
+<img src="https://postfiles.pstatic.net/MjAyMTEyMDNfNjkg/MDAxNjM4NTQzMjQxNjQ4.q-uCHQK8wZPzV6jOPn8MbjDStZiqwNNfTz9NjA-ln0og.Ca1Wz7NQjbrsvaCQ96VNWvMzSHUJL1qjLwjRdarAajMg.JPEG.98sena/output_3510372380.jpg?type=w773" style="width:220px"/>
   
 <h2 style="color:#6868ab"> 🐯 김예리 Kim Yeri ✨ </h2>
 
