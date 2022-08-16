@@ -3,7 +3,7 @@
   
 <h2 style="color:#6868ab"> 🐯 김예리 Kim Yeri ✨ </h2>
 
-<a href="https://adorable-nasturtium-a51f68.netlify.app" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>
+<!--<a href="https://adorable-nasturtium-a51f68.netlify.app" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>-->
 <!--<a href="https://velog.io/@kinnyeri" target="_blank"><img src="https://img.shields.io/badge/🕶 TECH BLOG-6868ab?style=flat-square&logoColor=white"/></a>-->
 <!--<a href="https://instagram.com/kinnyeri?utm_medium=copy_link" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-6868ab?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
 <!--<a href="https://blog.naver.com/98sena" target="_blank"><img src="https://img.shields.io/badge/😎 DAILY BLOG-6868ab?style=flat-square&logoColor=white"/></a> -->
