@@ -43,7 +43,7 @@
   
 <h2> 💎 Status 💭 </h2>
 <div style="display: flex; align-items: center; justify-contents:center;">
-<img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&bg_color=DEG,355E3B,6868ab&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&custom_title=✦✧✦✧"/>
+<!-- <img style="height:150px" src="https://github-readme-stats.vercel.app/api?username=kinnyeri&show_icons=true&bg_color=DEG,355E3B,6868ab&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&custom_title=✦✧✦✧"/> -->
 <a href="https://www.acmicpc.net/" target="_blank"><img style="height:150px; margin-left:10px" src="http://mazassumnida.wtf/api/generate_badge?boj=98sena"/></a>
 </div>
 
