@@ -2,10 +2,10 @@
 <!-- <img src="https://postfiles.pstatic.net/MjAyMTEyMDNfNjkg/MDAxNjM4NTQzMjQxNjQ4.q-uCHQK8wZPzV6jOPn8MbjDStZiqwNNfTz9NjA-ln0og.Ca1Wz7NQjbrsvaCQ96VNWvMzSHUJL1qjLwjRdarAajMg.JPEG.98sena/output_3510372380.jpg?type=w773" style="width:230px"/> -->
   
 <h2 style="color:#6868ab"> 김예리 Kim Yeri </h2>
-<div> ✅ Recently focusing in FE, ML </div>
-<div> 💚 Challenge-lover</div>
-<div> 🦖 My growth is unlimited </div>
-<div> ✨ Please stay tune for my <a href="https://adorable-nasturtium-a51f68.netlify.app">PORTFOLIO</a> </div>
+<div> ✅ Recently focusing in FE, ML. 프론트엔드이며 머신러닝에 관심을 갖고 있습니다. </div>
+<div> 💚 Challenge-lover 도전을 좋아합니다.</div>
+<div> 🦖 My growth is unlimited. 언제나 성장하고자 합니다.</div>
+<div> ✨ Please stay tune for my <a href="https://adorable-nasturtium-a51f68.netlify.app">PORTFOLIO</a>에 저를 더 소개했습니다!</div>
 
 <!--<a href="https://adorable-nasturtium-a51f68.netlify.app" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>-->
 <!--<a href="https://velog.io/@kinnyeri" target="_blank"><img src="https://img.shields.io/badge/🕶 TECH BLOG-6868ab?style=flat-square&logoColor=white"/></a>-->
