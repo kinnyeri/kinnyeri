@@ -5,7 +5,7 @@
 <div> ✅ Recently focusing in FE. </div>
 <div> 💚 Challenge-lover</div>
 <div> 🦖 My growth is unlimited.</div>
-<div> ✨ Please stay tune for my <a href="https://adorable-nasturtium-a51f68.netlify.app">PORTFOLIO</a></div>
+<!-- <div> ✨ Please stay tune for my <a href="https://adorable-nasturtium-a51f68.netlify.app">PORTFOLIO</a></div> -->
 
 <!--<a href="https://adorable-nasturtium-a51f68.netlify.app" target="_blank"><img src="https://img.shields.io/badge/👩‍💻  PORTFOLIO-6868ab?style=flat-square&logoColor=white"/></a>-->
 <!--<a href="https://velog.io/@kinnyeri" target="_blank"><img src="https://img.shields.io/badge/🕶 TECH BLOG-6868ab?style=flat-square&logoColor=white"/></a>-->
