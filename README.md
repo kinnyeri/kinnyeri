@@ -39,6 +39,7 @@ FE <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 
+<!--
 <div style="display:flex">
 Tools <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -57,3 +58,4 @@ Tools <br/>
 <!-- <a href="https://www.acmicpc.net/" target="_blank"><img style="height:150px; margin-left:10px" src="http://mazassumnida.wtf/api/generate_badge?boj=98sena"/></a> -->
 </div>
 <!-- </div> -->
+-->
