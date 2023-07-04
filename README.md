@@ -20,7 +20,7 @@
 -->
  
 <h6> </h6>
-
+<--
 <h3 style="color:#355E3B"> Stack </h3>
 <div style="display:flex">
 FE <br/> 
@@ -38,7 +38,7 @@ FE <br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
-
+-->
 <!--
 <div style="display:flex">
 Tools <br/>
@@ -50,7 +50,7 @@ Tools <br/>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
-  
+-->
 <!--
 <h2> 💎 Status 💭 </h2> -->
 <div style="display: flex; align-items: center; justify-contents:center;">
@@ -58,4 +58,3 @@ Tools <br/>
 <!-- <a href="https://www.acmicpc.net/" target="_blank"><img style="height:150px; margin-left:10px" src="http://mazassumnida.wtf/api/generate_badge?boj=98sena"/></a> -->
 </div>
 <!-- </div> -->
--->
